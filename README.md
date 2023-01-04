@@ -1,7 +1,7 @@
 # Reactive Pod
-<img src="	https://img.shields.io/github/issues/parikshit223933/Reactive-Pod"> <img src="https://img.shields.io/badge/Dev-Complete-brightgreen">
 
-(https://parikshit223933.github.io/Reactive-Pod/)
+
+
 
 > A Virtual i-pod using React JS.
 
@@ -10,8 +10,7 @@
 1. Firebase cloud storage (to store songs).
 2. React JS
 
-## Screenshots
-<img src="https://github.com/parikshit223933/Reactive-Pod/blob/master/src/Screens/1.png" width=400px><img src="https://github.com/parikshit223933/Reactive-Pod/blob/master/src/Screens/2.PNG" width=400px><img src="https://github.com/parikshit223933/Reactive-Pod/blob/master/src/Screens/3.PNG" width=400px><img src="https://github.com/parikshit223933/Reactive-Pod/blob/master/src/Screens/4.PNG" width=400px><img src="https://github.com/parikshit223933/Reactive-Pod/blob/master/src/Screens/5.PNG" width=400px><img src="https://github.com/parikshit223933/Reactive-Pod/blob/master/src/Screens/6.PNG" width=400px><img src="https://github.com/parikshit223933/Reactive-Pod/blob/master/src/Screens/7.PNG" width=400px><img src="https://github.com/parikshit223933/Reactive-Pod/blob/master/src/Screens/8.PNG" width=400px><img src="https://github.com/parikshit223933/Reactive-Pod/blob/master/src/Screens/9.PNG" width=400px><img src="https://github.com/parikshit223933/Reactive-Pod/blob/master/src/Screens/10.PNG" width=400px><img src="https://github.com/parikshit223933/Reactive-Pod/blob/master/src/Screens/11.png" width=400px>
+
 
 ## Features
 1. Rotation-On simulation. (Device rotates and so does screen and buttons).
